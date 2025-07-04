@@ -1,4 +1,4 @@
-# NeuroCut (U²-Net-Based AI Tool for Background Removal and Image Customization)
+# NeuroCut (U²-Net-Based Background Removal and Image Customization Application)
 
 ## 👤 Author
 
