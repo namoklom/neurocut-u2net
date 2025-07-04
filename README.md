@@ -45,7 +45,7 @@ The model is initialized during the FastAPI server startup. It is loaded from a 
 
 ![image](https://github.com/user-attachments/assets/bb50cbf3-7649-420e-ae84-9f00cf4dd685)
 
-### 🔹 Initialization Logic
+## 🔹 Initialization Logic
 
 - Loads `u2net.pth` weights from disk using `torch.load(...)`
 - Initializes the U²-Net model from `u2net.py`
@@ -59,7 +59,7 @@ The model is initialized during the FastAPI server startup. It is loaded from a 
 
 The frontend of **NeuroCut** is built using **Vue 3** and styled with **Tailwind CSS**, offering a highly responsive and modern user experience. The UI is designed with simplicity and performance in mind, ensuring smooth interactions across all devices and screen sizes.
 
-### 🔹 Key Features
+## 🔹 Key Features
 
 - **Component-Based Architecture**  
   Utilizes Vue 3's Composition API for modular and maintainable code.
@@ -85,7 +85,7 @@ The frontend of **NeuroCut** is built using **Vue 3** and styled with **Tailwind
 
 The backend of **NeuroCut** is powered by **FastAPI**, a modern, asynchronous Python web framework built for high-performance REST APIs. It is responsible for handling image uploads, running AI inference, and returning the processed image data to the frontend.
 
-### 🔹 Key Features
+## 🔹 Key Features
 
 - **Asynchronous Processing**  
   FastAPI with Uvicorn allows for high concurrency and low-latency image processing.
@@ -109,14 +109,14 @@ The backend of **NeuroCut** is powered by **FastAPI**, a modern, asynchronous Py
 
 ## 📱 App Overview
 
-### Home Menu
+## Home Menu
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/c5ae379a-b6c8-47e5-a74a-b96219ead1c3" />
 
 
 The **Home** menu of **NeuroCut** introduces the app with a clear, impactful headline: "Remove Backgrounds with AI Precision," highlighting its core functionality of using cutting-edge deep learning to remove image backgrounds in seconds. Below the headline, the **"Why NeuroCut?"** section explains the app's key benefits: ultra-precise AI detection, instant processing, and easy image customization, making it perfect for designers, photographers, and online sellers. Additionally, **user testimonials** are displayed, showcasing real feedback from satisfied users like Dita, an online store owner who praises NeuroCut for saving her hours of editing, and Alex, a freelance editor, who values the app's speed and accuracy. The **"Try It Now"** button encourages immediate engagement, inviting users to start editing their images with the app's seamless and responsive interface, built with **Vue.js** and **Tailwind CSS**.
 
-### Crop Menu
+## Crop Menu
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/2cf033f1-05d9-47b3-9b65-f850f376956f" />
 
@@ -124,7 +124,7 @@ The **Home** menu of **NeuroCut** introduces the app with a clear, impactful hea
 
 The **Crop** menu in **NeuroCut** is the main feature where users can **remove image backgrounds** using **U²-Net**'s AI-powered deep learning model. Users can upload images, such as photos of people, animals, or products, and the model will automatically isolate the subject and remove the background. As seen in the example of an orangutan photo, the background (in this case, a forest) is successfully removed, leaving a clean subject. Once the background is removed, users can preview the results and download the final image with the background eliminated. The **"Download Result"** button enables users to save their edited images in high quality.
 
-### Customize Menu
+## Customize Menu
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/fd9215ce-1bc2-499d-9584-b14fd8bf61ac" />
 
@@ -136,7 +136,7 @@ Users can experiment with professional gradient themes such as Ocean, Sunset, Ne
 
 Additionally, users have the flexibility to upload their own background image, which can be anything from a brand template, product showcase, or scenic photo. All customization options are rendered in real time, allowing users to instantly preview the result before downloading their finalized image in high quality. This menu is especially useful for content creators, photographers, and digital designers looking for a fast and elegant way to style their images with AI-powered background control.
 
-### Background Gallery Menu
+## Background Gallery Menu
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/9b826c04-9d3d-4bcc-a6ae-49e1ca46d9bc" />
 
@@ -148,7 +148,7 @@ Each background is displayed in an interactive card layout. When a user clicks t
 
 This feature is especially helpful for users who want to quickly try different aesthetic combinations without having to upload a background manually. For example, a user who cropped an orangutan image earlier can effortlessly preview it on a vibrant sakura background, a scenic lake view, or even a stylized pixel art landscape, all with just one click. The Background Gallery streamlines the workflow, saves editing time, and inspires creativity through instant visual experimentation.
 
-### FAQ Menu
+## FAQ Menu
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/1b75407e-5958-407d-aa2a-40fdfbff237e" />
 
