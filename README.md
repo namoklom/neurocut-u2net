@@ -132,7 +132,7 @@ The **Crop** menu in **NeuroCut** is the main feature where users can **remove i
 
 The **Customize** menu in **NeuroCut** allows users to personalize the background of their cropped images in an intuitive and visually engaging interface. After successfully removing the background in the **Crop** section, users can upload the resulting cropped image here to begin customization. The interface offers several options for background styling, including selecting a solid color through a color picker, choosing from a range of preset gradient themes, or uploading a new custom background image.
 
-Users can experiment with professional gradient themes such as Ocean, Sunset, Aurora, Midnight, and Corporate Blue — each designed to enhance different types of subjects and moods. For instance, in the example shown, the previously cropped orangutan image is placed on an **Ocean** gradient background, creating a vibrant and nature-inspired look that draws focus to the subject while maintaining an aesthetically pleasing visual balance.
+Users can experiment with professional gradient themes such as Ocean, Sunset, NeonPink, and BluePurple, each designed to enhance different types of subjects and moods. For instance, in the example shown, the previously cropped orangutan image is placed on an **Ocean** gradient background, creating a vibrant and nature-inspired look that draws focus to the subject while maintaining an aesthetically pleasing visual balance.
 
 Additionally, users have the flexibility to upload their own background image, which can be anything from a brand template, product showcase, or scenic photo. All customization options are rendered in real time, allowing users to instantly preview the result before downloading their finalized image in high quality. This menu is especially useful for content creators, photographers, and digital designers looking for a fast and elegant way to style their images with AI-powered background control.
 
@@ -142,11 +142,11 @@ Additionally, users have the flexibility to upload their own background image, w
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/7ee9a65f-2408-42f0-a477-c76657ec2f2d" />
 
-The **Background Gallery** menu in **NeuroCut** provides users with access to a curated collection of beautiful, high-resolution sample background images. These backgrounds are professionally categorized and visually diverse — including nature, abstract, minimal, illustrated, landscape, and more — giving users a fast and easy way to enhance the appearance of their cropped subjects.
+The **Background Gallery** menu in **NeuroCut** provides users with access to a curated collection of beautiful, high-resolution sample background images. These backgrounds are professionally categorized and visually diverse, including nature, abstract, minimal, illustrated, landscape, and more, giving users a fast and easy way to enhance the appearance of their cropped subjects.
 
 Each background is displayed in an interactive card layout. When a user clicks the **"Use Background"** button on a selected image, they are automatically redirected to the **Customize** menu, where the selected background is preloaded and applied to the previously uploaded foreground (cropped image).
 
-This feature is especially helpful for users who want to quickly try different aesthetic combinations without having to upload a background manually. For example, a user who cropped an orangutan image earlier can effortlessly preview it on a vibrant sakura background, a scenic lake view, or even a stylized pixel art landscape — all with just one click. The Background Gallery streamlines the workflow, saves editing time, and inspires creativity through instant visual experimentation.
+This feature is especially helpful for users who want to quickly try different aesthetic combinations without having to upload a background manually. For example, a user who cropped an orangutan image earlier can effortlessly preview it on a vibrant sakura background, a scenic lake view, or even a stylized pixel art landscape, all with just one click. The Background Gallery streamlines the workflow, saves editing time, and inspires creativity through instant visual experimentation.
 
 ### FAQ Menu
 
