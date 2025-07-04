@@ -184,6 +184,5 @@ The **Profile** menu in **NeuroCut** provides users with a personalized space wh
 | **Vite**                  | Fast frontend build tool and development server for Vue.js                  |
 | **JavaScript**            | Core scripting language for frontend behavior and interactivity             |
 | **HTML**                  | Markup language used to structure content on the web                        |
-| **HTML**                  | Markup language used to structure content on the web                        |
 | **CSS**                   | Styling language for layout, design, and visual presentation                |
 | **NumPy**                 | Library for fast numerical operations and array manipulation                |
