@@ -148,7 +148,23 @@ Each background is displayed in an interactive card layout. When a user clicks t
 
 This feature is especially helpful for users who want to quickly try different aesthetic combinations without having to upload a background manually. For example, a user who cropped an orangutan image earlier can effortlessly preview it on a vibrant sakura background, a scenic lake view, or even a stylized pixel art landscape — all with just one click. The Background Gallery streamlines the workflow, saves editing time, and inspires creativity through instant visual experimentation.
 
+### FAQ Menu
 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/1b75407e-5958-407d-aa2a-40fdfbff237e" />
+
+The **FAQ (Frequently Asked Questions)** menu in **NeuroCut** provides users with quick answers to common questions about how the platform works. It is designed in an interactive, collapsible format where users can click to expand each question and view its answer without cluttering the interface. Questions typically cover topics such as what NeuroCut is, how the AI-based background removal process works using the U²-Net model, whether multiple images can be uploaded, and the privacy of uploaded content. This section helps users navigate the app more confidently, reduces confusion, and ensures a smoother overall user experience.
+
+## Payment Menu
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/d2d2d566-bddd-44bf-8c0d-6911726d2343" />
+
+The **Payment** menu in **NeuroCut** provides users with a simple and elegant interface to compare subscription options and select the plan that best suits their needs. It features two main tiers: the **Free Plan**, which allows up to 5 image edits per day with standard processing speed and basic access; and the **Premium Plan**, designed for power users and professionals, offering unlimited uploads, faster processing, priority customer support, and an ad-free experience. This menu helps streamline the upgrade process, making it easy for users to unlock advanced features and enhance their image editing workflow with just a few clicks.
+
+## Profile Menu
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/a0c395c4-232c-4e33-b553-8cd00679029d" />
+
+The **Profile** menu in **NeuroCut** provides users with a personalized space where they can view and manage their account details. It displays the user's profile picture, full name, email address, and phone number in a clean and centered layout. Users can also update their profile image directly from this page, making it easy to maintain a consistent personal or professional identity across the platform. The design emphasizes clarity and accessibility, ensuring that key information is easy to read and manage within a stylish, responsive interface.
 
 ---
 
